@@ -97,4 +97,10 @@ We notice that the attacks where done to people surfing and swimming in the same
 
 ![ACTIVITYvsFATAL](https://github.com/Albertoplm/Shark-Project/blob/main/images/ACTIVITYvsFATAL.svg)
 
-In the graph we see that they were more fatal attacks in people that was diving than surfing, but also we notice that swiming has the highest fatal rate
+In the graph we see that they were more fatal attacks in people that was diving than surfing, but also we notice that swiming has the highest fatal rate.
+
+### **H9 - They are more sharks attacks reported during no lights hours**
+
+![WORST_TIME_TO_WATER](https://github.com/Albertoplm/Shark-Project/blob/main/images/WORST_TIME_TO_WATER.svg)
+
+We notice that they were more cases reported during day light... almost 50% of the cases were reported between 11 to 16.
