@@ -1,6 +1,6 @@
 # Shark-Project
 
-![shark](https://github.com/Albertoplm/Shark-Project/blob/master/images/shark.jpg)
+![shark](https://github.com/Albertoplm/Shark-Project/blob/main/images/shark.jpg)
 
 
 My first project in Iron Hack:
