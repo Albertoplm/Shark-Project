@@ -45,6 +45,7 @@ The final version of the database is composed of (with a total sample of 6302 ca
 6. **They are more Sharks attacks during summer**
 7. **Sharks more frequently attack people that are sufing**
 8. **The percentage of deaths is higher in people that is diving than in people who practice surfing**
+9. **H9 - They are more sharks attacks reported during no lights hours**
 
 ## Conclusions
 
