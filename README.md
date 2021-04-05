@@ -16,7 +16,7 @@ My first project in Iron Hack:
 ## Hypotheses
 
 1. **Sharks attacks men more often**
-2. **The are more men who died by a Shark attack**
+2. **The probability of been a fatal Shark attack, is higher on women**
 3. **Have been reported more shark attacks with people between the ages of 15 and 35.**
 4. **The most common injury was to the leg**
 5. **The most common shark attacks reported were by white sharks**
@@ -29,3 +29,50 @@ My first project in Iron Hack:
 ### **H1 - Sharks attacks men more often**
 
 ![Gender](https://github.com/Albertoplm/Shark-Project/blob/main/images/GENDER.svg)
+
+We appreciate in the chart, that the number of attacks on males are significantly higher than on females, almost 90% of the reported attacks were on males. 
+
+### **H2 - The probability of been a fatal Shark attack, is higher on women**
+
+![GendervsFatal](https://github.com/Albertoplm/Shark-Project/blob/main/images/GENDER_vs_Mortal.svg)
+
+In this graph we can notice that there is not a significant variance between gender respect to the probability of been a Fatal Attack
+
+### **H3 - Have been reported more shark attacks with people between the ages of 15 and 35.**
+
+![AGE](https://github.com/Albertoplm/Shark-Project/blob/main/images/AGE.svg)
+
+Here we can see that the volume is highest in the age range between 15 and 30 and the mean of the age is around 25
+
+### **H4 - The most common injury was to the leg**
+
+![TYPE_OF_INJURY1](https://github.com/Albertoplm/Shark-Project/blob/main/images/TYPE_OF_INJURY1.svg)
+![TYPE_OF_INJURY2](https://github.com/Albertoplm/Shark-Project/blob/main/images/TYPE_OF_INJURY2.svg)
+
+We notice that half of the cases reported were injuries in legs or foots
+
+### **H5 - The most common shark attacks reported were by white sharks**
+
+![TYPE_OF_SHARK1](https://github.com/Albertoplm/Shark-Project/blob/main/images/TYPE_OF_SHARK1.svg)
+![TYPE_OF_SHARK2](https://github.com/Albertoplm/Shark-Project/blob/main/images/TYPE_OF_SHARK2.svg)
+
+As we can see in the graph the White shark has a bigger rate in the case attacks reported, almost 50% of the attacks where done by White Sharks
+
+### **H6 - They are more Sharks attacks during summer (I just realized that the same day of the year in one place could be summer and in another winter...because it depends on the hemisphere... )**
+
+![MONTLHY](https://github.com/Albertoplm/Shark-Project/blob/main/images/MONTLHY.svg)
+
+If I have time i will try to check the hemispheres....
+
+### **H7 - Sharks attacks more often to people that are surfing**
+
+![TYPE_OF_ACTIVITY1](https://github.com/Albertoplm/Shark-Project/blob/main/images/TYPE_OF_ACTIVITY1.svg)
+![TYPE_OF_ACTIVITY2](https://github.com/Albertoplm/Shark-Project/blob/main/images/TYPE_OF_ACTIVITY2.svg)
+
+We notice that the attacks where done to people surfing and swimming in the same amount. 
+
+### **H8 - The percentage of deaths is higher in people that is diving than in people who practice surfing**
+
+![ACTIVITYvsFATAL](https://github.com/Albertoplm/Shark-Project/blob/main/images/ACTIVITYvsFATAL.svg)
+
+In the graph we see that they were more fatal attacks in people that was diving than surfing, but also we notice that swiming has the highest fatal rate
