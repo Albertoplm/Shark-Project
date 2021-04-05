@@ -28,4 +28,4 @@ My first project in Iron Hack:
 
 ### **H1 - Sharks attacks men more often**
 
-![Gender](https://github.com/Albertoplm/Shark-Project/blob/master/images/gender.jpg)
+![Gender](https://github.com/Albertoplm/Shark-Project/blob/master/images/GENDER.svg)
