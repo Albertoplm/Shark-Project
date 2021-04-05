@@ -4,14 +4,36 @@
 
 
 My first project in Iron Hack:
-- In this project we have to analyse the Global Shark Attacks dataset (https://www.kaggle.com/teajay/global-shark-attacks) and come up with some hypotheses and check if they hold true.
-- The process to carry out the project is as follows:
+- In this project we have to analyse the Global Shark Attacks dataset (https://www.kaggle.com/teajay/global-shark-attacks) and come up with some hypotheses and check if they are true.
+- The process to carry out the project was as follows:
    1. First I have made a brief study of the database.
    2. Once I had a clear idea of what data was in the database, I created my hypotheses.
    3. I start the cleaning to keep only the data I need to test my hypotheses.
    4. Once I have the database clean I create a new file with that database.
    5. I download the new file into another document and start my analysis, creating graphs for the visualisation of the conclusions. 
 
+To carry out this research I have used different libraries:
+   - pandas 
+   - seaborn
+   - matplotlib.pyplot 
+   - numpy 
+   - re
+
+Note: In the repo you will find two different Jupiters, one with the cleaning process and the other one with the Visualization process. Also you can find the data (.csv) and the images.
+
+In order to clean the database I really fin very usefull regex
+
+The final version of the database is composed of (with a total sample of 6302 cases):
+   - COUNTRY: (6252)
+   - YEAR: (6172)
+   - MONTHLY: (5750)
+   - N_TIME: (2366)
+   - SEX: (5733)
+   - AGE: (3408)
+   - N_ACTIVITY: (4321)
+   - N_SPECIES: (1436)
+   - FATAL_Y_N: (5689)
+   - N_INJURY: (2321)
 
 ## Hypotheses
 
